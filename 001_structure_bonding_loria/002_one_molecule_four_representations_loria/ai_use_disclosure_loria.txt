@@ -1,0 +1,11 @@
+AI tool used: Claude (by Anthropic)
+
+Claude was used for:
+1. Summarizing the activity instructions and planning the order of work.
+2. Explaining how to use Ketcher to draw the bond-line structures (tools, Clean Up, formula check, export).
+3. Explaining how to build Lewis structures and providing a reference PDF showing Lewis structures of the 10 molecules with explanations. I used it to learn and to check my own work.
+4. Checking my condensed structural formulas.
+5. Explaining how to complete the verification strip (atom count, valence, connectivity).
+6. Confirming the GitHub folder structure and file naming.
+ 
+I drew my own Lewis structures and Ketcher bond-line structures. I independently verified atom count, valence, bond order, and connectivity for every molecule.
