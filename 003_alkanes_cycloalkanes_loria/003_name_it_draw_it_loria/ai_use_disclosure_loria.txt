@@ -1,0 +1,62 @@
+AI AND TOOL USE DISCLOSURE
+
+TOOLS USED
+1. The Alkane (IUPAC name generator, web application)
+2. Claude (AI assistant made by Anthropic)
+
+No other AI tool and no other naming or drawing program was used for this activity.
+
+1. THE ALKANE
+Used as this activity requires, as a checker and not as an answer key:
+  - Part A: I typed my own name first, rebuilt each given structure in The Alkane, and
+    compared the returned name with mine. Where the returned name differed from the correct
+    IUPAC name (card A09), I kept the correct name and stated the rule.
+  - Part B: I built every structure in The Alkane from the given name, recorded the returned
+    name for the back-check, and saved cropped screenshots in the thealkane_checks folder.
+
+Citation:
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved
+November 6, 2026, from https://thealkane.com/
+
+
+2. CLAUDE (AI ASSISTANT)
+------------------------------------------------------------------------------------------
+I used Claude as learning support. I used it to:
+
+  a. Explain how to use The Alkane website: how to build a structure, how to read the
+     returned name, and what to do when names differ.
+
+  b. Explain the naming rules: finding the longest chain, choosing the parent, numbering
+     with the first point of difference, the alphabetical tie-break, naming substituents
+     (methyl, ethyl, propyl, butyl), and punctuation.
+
+  c. Help me when I was confused, especially with unfamiliar terms and with names that look
+     different but describe the same group, such as isopropyl, (1-methylethyl) and
+     propan-2-yl, or tert-butyl and (1,1-dimethylethyl).
+
+  d. Guide me through the activity when I was stuck, by explaining the steps and checking my
+     reasoning. This included checking the parent chains I traced and the names and naming
+     trails I wrote, pointing out corrections, and explaining why The Alkane's returned name
+     for card A09 did not follow the longest-chain rule.
+
+  e. Check my PowerPoint file to see whether it was ready for submission (layout, typing
+     errors, and missing card elements).
+
+  f. Provide a reference guide for Part B (expected structures, sample wording for the Name
+     decoded and Formula check panels, and formula text with subscript characters that I
+     could paste into my layout tool). I used it as a model and checked it against my own
+     drawings in The Alkane and my own counting of carbons and hydrogens.
+
+  g. Suggest a card size and layout for the portfolio.
+
+
+MY OWN WORK AND RESPONSIBILITY
+------------------------------------------------------------------------------------------
+  - I traced the parent chains, wrote my Part A names and naming trails, and typed my Part A
+    names before opening The Alkane.
+  - I built the structures and took the screenshots myself.
+  - I did not copy a name from Claude or from any other tool into the "My name" panel without
+    my own naming trail.
+  - Claude and The Alkane can make mistakes. I am responsible for the correctness of every
+    name, structure, and explanation in this portfolio. Where a tool and the IUPAC rules
+    disagreed, I followed the rules.
